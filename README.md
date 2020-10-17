@@ -1,10 +1,18 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
-## Hi there, I'm Nikesh 👋
+
+### About me
 
 - 💻 I'm a Student and Developer
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning React 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn
+
+### Tech Stack
+
+- 💻 &nbsp; Ruby | JavaScript | Java | C# | Python |
+- 🌐 &nbsp; HTML 5 | CSS 3 | | JSON | Bootstrap 4 | React.js
+- 🧰 &nbsp; Express.js | ASP.NET
+- 💾 &nbsp; Postgres SQL | MongoDB | MySQL
 
 <!-- ### Connect with me: -->
 
