@@ -5,11 +5,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Learn
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/nikeshghimire77/count.svg" />
-</p>
-
 <!-- ### Connect with me: -->
 
 <br />
