@@ -9,8 +9,8 @@
 
 ### Tech Stack
 
-- 💻 &nbsp; Ruby | JavaScript | Java | C# | Python |
-- 🌐 &nbsp; HTML 5 | CSS 3 | | JSON | Bootstrap 4 | React.js
+- 💻 &nbsp; JavaScript | Java | C# | Python
+- 🌐 &nbsp; HTML 5 | CSS 3 | Bootstrap 4 | React.js | Angular
 - 🧰 &nbsp; Express.js | ASP.NET
 - 💾 &nbsp; Postgres SQL | MongoDB | MySQL
 
