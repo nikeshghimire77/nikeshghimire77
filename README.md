@@ -4,7 +4,7 @@
 
 - 💻 I'm a Student and Developer
 - 🌱 I’m currently learning React 🤣
-- 🥅 2020 Goals: Learn
+- 🥅 2020 Goals: Learn problem solving skills.
 
 ### Tech Stack
 
@@ -12,6 +12,8 @@
 - 🌐 &nbsp; HTML 5 | CSS 3 | Bootstrap 4 | React.js | Angular
 - 🧰 &nbsp; Node | ASP.NET
 - 💾 &nbsp; Postgres SQL | MongoDB | MySQL
+
+[![nikeshghimire's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikeshghimire77&layout=compact&theme=radical)](https://github.com/nikeshghimire77)
 
 <!-- ### Connect with me: -->
 
