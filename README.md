@@ -3,8 +3,7 @@
 ### About me
 
 - 💻 I'm a Student and Developer
-- 🌱 I’m currently learning React 🤣
-- 🥅 2020 Goals: Learn problem solving skills.
+- 🌱 I’m currently learning React
 
 ### Tech Stack
 
