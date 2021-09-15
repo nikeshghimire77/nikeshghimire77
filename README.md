@@ -2,13 +2,12 @@
 
 ### About me
 
-- 💻 I'm a Student and Developer
-- 🌱 I’m currently learning React
+- 💻 I'm a computer science graduate student at Georgia Institute of Technology and Software Engineer by profession.
 
 ### Tech Stack
 
 - 💻 &nbsp; JavaScript | Java | C# | Python
-- 🌐 &nbsp; HTML 5 | CSS 3 | Bootstrap 4 | React.js | Angular
+- 🌐 &nbsp; HTML 5 | CSS 3 | Bootstrap 4 | Angular
 - 🧰 &nbsp; Node | ASP.NET
 - 💾 &nbsp; Postgres SQL | MongoDB | MySQL
 
